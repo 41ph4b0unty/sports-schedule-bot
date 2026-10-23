@@ -1,0 +1,4 @@
+# Direct runtime dependencies, pinned to the versions installed for validation.
+requests==2.34.2
+python-dotenv==1.2.3
+tzdata==2026.5
