@@ -137,3 +137,17 @@ Before a future publication, inspect `git status --short`, `git ls-files` and th
 - [football-data.org documentation](https://www.football-data.org/documentation/quickstart)
 - [TheSportsDB API documentation](https://api.thesportsdb.com/documentation)
 - [Telegram Bot API](https://core.telegram.org/bots/api)
+
+## 📸 Screenshots
+
+Real examples of the Sports Schedule Telegram Bot.
+Personal information has been removed for privacy.
+
+### Football schedule — Part 1
+![Football Schedule Part 1](screenshots/sports-schedule-01.png)
+
+### Football schedule — Part 2
+![Football Schedule Part 2](screenshots/sports-schedule-02.png)
+
+### Football schedule — Part 3
+![Football Schedule Part 3](screenshots/sports-schedule-03.png)
